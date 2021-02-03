@@ -1,2 +1,2 @@
 # ETC_website
-website template using html, css, js
+https://akashjoshi99.github.io/ETC_website/etc/
